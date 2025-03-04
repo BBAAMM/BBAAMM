@@ -39,9 +39,10 @@
 
 <h2 align='center'>🤝 Contact Me</h1>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </p></br></br></br>
 
 <h2 align='center'>💼 Portfolio</h1>
@@ -52,7 +53,7 @@
 <ul>
   <li>2022~ : baqu4(Automatic Driving) member</li>
   <li>2023.02~2024.08 : Military Service</li>
-  <li>2024.08~2025.02: Canada</li>
+  <li>2024.08~2025.02 : Canada</li>
   <li>2025.02~ : Current</li>
 </ul>
 </br></br></br>
