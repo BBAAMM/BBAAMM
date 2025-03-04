@@ -32,4 +32,29 @@
 
 <h2 align='center'>🔥 Learning</h1>
 <p align='center'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/></br>
+</p></br></br></br>
+
+<h2 align='center'>🤝 Contect Me</h1>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/></br>
+</p></br></br></br>
+
+<h2 align='center'>💼 Portfolio</h1>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat-square&logo=numpy&logoColor=white"/></br>
+</p></br></br></br>
+
+<h2 align='center'>⏰ History</h1>
+<li align='center'>2022~ : baqu4(Automatic Driving) member</li>
+<li align='center'>2023.02~2024.08 : Military Service</li>
+<li align='center'>2024.08~2025.02: Canada</li>
+<li align='center'>2025.02~ : Current</li>
+</br></br></br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
