@@ -54,4 +54,4 @@
   <li>2025.02~ : Current</li>
 </ul>
 </br></br></br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /></div>
