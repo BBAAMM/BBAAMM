@@ -44,15 +44,18 @@
 </p></br></br></br>
 
 <h2 align='center'>💼 Portfolio</h1>
-<p align='center'><b>It'll be updated soon🔥</b></p>
+<h3> Autonomous Driving 22 </h3>
+<a href="https://github.com/BBAAMM/openCV-driving-22">
+  <img src="https://github.com/user-attachments/assets/50db9086-f7fa-4eac-9464-6a0877d5f4b4"/>
+</a>
 </br></br></br>
 
 <h2 align='center'>⏰ History</h1>
 <ul>
-  <li>2022~ : baqu4(Automatic Driving) member</li>
-  <li>2023.02~2024.08 : Military Service</li>
-  <li>2024.08~2025.02 : Canada</li>
-  <li>2025.02~ : Current</li>
+  <li>2022~&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:&emsp;baqu4(Autonomous Driving) member</li>
+  <li>2023.02~2024.08&emsp;:&emsp;Military Service</li>
+  <li>2024.08~2025.02&emsp;:&emsp;Canada</li>
+  <li>2025.02~&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;:&emsp;Current</li>
 </ul>
 </br></br></br>
 <div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /></div>
