@@ -73,7 +73,7 @@
   <li>2023.02~2024.08&emsp;:&emsp;Military Service</li>
   <li>2024.08~2025.02&emsp;:&emsp;Canada with side project</li>
   <li>2025.02~2025.09&emsp;:&emsp;baqu4(Autonomous Driving) member</li>
-  <li>2025.12~&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;:&emsp;Cheif of Jaram</li>
+  <li>2025.12~&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;:&emsp;Chief of Jaram</li>
 
 </ul>
 </br></br></br>
