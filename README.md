@@ -56,6 +56,12 @@
   <img width="1920" height="1080" alt="419455031-eb7d0869-47f3-44d6-80b2-2364e7129919" src="https://github.com/user-attachments/assets/1a538f7a-c91d-4883-9994-e99901ebd9fa" />
 </a>
 
+<a href="https://github.com/BBAAMM/Li-Ma">
+  <h4> 2024 as Project Manager </h4>
+  <img width="1255" height="705" alt="444038092-72e46afd-3a78-4c47-9785-282c1d2734d7" src="https://github.com/user-attachments/assets/5dd7ac08-869a-4902-a83d-133e65cd86de" />
+</a>
+
+  
 <a href="https://github.com/software-temp/Invaders-SDP-Private">
   <h4> 2025 as Project Manager </h4>
   <img width="1362" height="959" alt="522843704-c3acb7ea-9104-4716-8fab-83b19afb86c3" src="https://github.com/user-attachments/assets/e478cdf5-e7f5-490d-bedb-4c036c0581e1" />
